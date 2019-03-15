@@ -1,2 +1,2 @@
 # mlboot_sna_text
-Solution for mlboot camp contest, text track
+Solution for ml boot camp, SNA hackaton contest, text track
