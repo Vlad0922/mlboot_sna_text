@@ -1,5 +1,5 @@
 # mlboot_sna_text
-Solution for ml boot camp, SNA hackaton contest, text track
+Solution for ml boot camp, SNA hackaton contest, text track. 5th place public/private LB.
 
 В целом, решение базируется на рекуррентных сетях + немного фичей текста. К сожалению, данные очень разрежены, построить представление пользователей у меня не получилось, поэтому вместо P(like | user, post) приходится предсказывать P(like | post).
 
